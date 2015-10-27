@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context
+  reloadable="true"
+  displayName="Langrid Composite Services"
+>
+    <Parameter name="langrid.coreNodeUrl" value="http://localhost:8080/langrid-2.0/" />
+    <Parameter name="langrid.appAuthKey" value="trang" />
+	<Parameter name="fromCoreNode.appAuth.authIps" value="127.0.0.1" />
+    <Parameter name="fromCoreNode.appAuth.authKey" value="langrid" />
+</Context>
